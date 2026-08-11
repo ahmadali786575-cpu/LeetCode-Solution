@@ -25,6 +25,7 @@ LeetCode DSA solutions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -54,4 +55,8 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
