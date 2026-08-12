@@ -13,6 +13,7 @@ LeetCode DSA solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -70,4 +71,8 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
