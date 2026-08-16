@@ -18,6 +18,7 @@ LeetCode DSA solutions
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ LeetCode DSA solutions
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -85,4 +87,9 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
