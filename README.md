@@ -17,6 +17,7 @@ LeetCode DSA solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -38,6 +39,7 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -128,4 +130,24 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
