@@ -6,6 +6,7 @@ LeetCode DSA solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
@@ -36,6 +37,7 @@ LeetCode DSA solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0567-permutation-in-string) |
