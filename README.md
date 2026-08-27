@@ -28,6 +28,7 @@ LeetCode DSA solutions
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@ LeetCode DSA solutions
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +52,7 @@ LeetCode DSA solutions
 | [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0371-sum-of-two-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,4 +172,5 @@ LeetCode DSA solutions
 | [0054-spiral-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
