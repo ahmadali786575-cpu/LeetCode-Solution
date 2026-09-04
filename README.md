@@ -36,6 +36,7 @@ LeetCode DSA solutions
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -81,6 +82,7 @@ LeetCode DSA solutions
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
