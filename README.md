@@ -48,6 +48,7 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@ LeetCode DSA solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
@@ -150,6 +152,7 @@ LeetCode DSA solutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
