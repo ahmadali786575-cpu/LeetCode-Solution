@@ -31,6 +31,7 @@ LeetCode DSA solutions
 | [0238-product-of-array-except-self](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
@@ -53,6 +54,7 @@ LeetCode DSA solutions
 | [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -82,6 +84,7 @@ LeetCode DSA solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -95,6 +98,7 @@ LeetCode DSA solutions
 | [0088-merge-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -134,6 +138,7 @@ LeetCode DSA solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0443-string-compression) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 ## Greedy
