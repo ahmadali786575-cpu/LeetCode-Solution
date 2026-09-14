@@ -35,6 +35,7 @@ LeetCode DSA solutions
 | [0560-subarray-sum-equals-k](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -83,6 +84,7 @@ LeetCode DSA solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
