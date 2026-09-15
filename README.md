@@ -15,6 +15,7 @@ LeetCode DSA solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
@@ -109,6 +110,7 @@ LeetCode DSA solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,6 +134,7 @@ LeetCode DSA solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
@@ -173,6 +176,7 @@ LeetCode DSA solutions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -214,4 +218,8 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
