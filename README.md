@@ -39,6 +39,7 @@ LeetCode DSA solutions
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 | [1095-find-in-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
@@ -189,6 +190,7 @@ LeetCode DSA solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -221,6 +223,7 @@ LeetCode DSA solutions
 | [0074-search-a-2d-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Newton's Method
 |  |
