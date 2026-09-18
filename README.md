@@ -37,6 +37,7 @@ LeetCode DSA solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -52,6 +53,7 @@ LeetCode DSA solutions
 | [0136-single-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
@@ -63,6 +65,7 @@ LeetCode DSA solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -107,6 +110,7 @@ LeetCode DSA solutions
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0645-set-mismatch](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
