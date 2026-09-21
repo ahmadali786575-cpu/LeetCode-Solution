@@ -191,6 +191,7 @@ LeetCode DSA solutions
 | [0409-longest-palindrome](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0796-rotate-string) |
 | [1859-sorting-the-sentence](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -251,4 +252,8 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1859-sorting-the-sentence) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
