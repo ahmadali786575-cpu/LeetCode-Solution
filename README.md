@@ -62,6 +62,7 @@ LeetCode DSA solutions
 | [0001-two-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -112,6 +113,7 @@ LeetCode DSA solutions
 | [0018-4sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0645-set-mismatch) |
@@ -188,6 +190,7 @@ LeetCode DSA solutions
 | [0058-length-of-last-word](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0443-string-compression) |
