@@ -119,6 +119,7 @@ LeetCode DSA solutions
 | [0645-set-mismatch](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 | [1859-sorting-the-sentence](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +200,7 @@ LeetCode DSA solutions
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2785-sort-vowels-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
