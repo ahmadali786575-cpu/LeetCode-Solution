@@ -83,6 +83,7 @@ LeetCode DSA solutions
 | [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0415-add-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -194,6 +195,7 @@ LeetCode DSA solutions
 | [0242-valid-anagram](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0796-rotate-string) |
@@ -210,6 +212,7 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
