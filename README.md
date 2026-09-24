@@ -61,6 +61,7 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0242-valid-anagram) |
@@ -77,6 +78,7 @@ LeetCode DSA solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0050-powx-n) |
@@ -190,6 +192,7 @@ LeetCode DSA solutions
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0125-valid-palindrome) |
