@@ -61,6 +61,7 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
@@ -192,6 +193,7 @@ LeetCode DSA solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0058-length-of-last-word) |
@@ -224,6 +226,7 @@ LeetCode DSA solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 ## Enumeration
 |  |
