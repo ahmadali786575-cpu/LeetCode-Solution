@@ -208,6 +208,7 @@ LeetCode DSA solutions
 | [0443-string-compression](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -277,16 +278,27 @@ LeetCode DSA solutions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
