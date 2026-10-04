@@ -88,6 +88,7 @@ LeetCode DSA solutions
 | [0069-sqrtx](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0415-add-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -106,6 +107,7 @@ LeetCode DSA solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
