@@ -1,24 +1,26 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
-        
-        int start=0, end = nums.size()-1;
-        
-        while(start<= end){
-            
-            int mid = start + (end - start)/2;
-            if(nums[mid]==target){
+    // helper function
+    int binSearch(vector<int>& arr, int target, int st, int end) {
+        if (st <= end) {
+            int mid = st + (end - st) / 2;
+
+            if (arr[mid] == target)
                 return mid;
+
+            else if (arr[mid] < target) {
+                return binSearch(arr, target, mid + 1, end);
             }
-            else if(nums[mid]<target){
-                start = mid+1;
-            }
-            else if(nums[mid]>target){
-                end = mid-1;
+
+            else {
+                return binSearch(arr, target, st, mid - 1);
             }
         }
+
         return -1;
     }
 
-    
+    int search(vector<int>& arr, int target) {
+        return binSearch(arr, target, 0, arr.size() - 1);
+    }
 };
