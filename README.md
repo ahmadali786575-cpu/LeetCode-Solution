@@ -20,6 +20,7 @@ LeetCode DSA solutions
 | [0042-trapping-rain-water](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
@@ -331,6 +332,11 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
