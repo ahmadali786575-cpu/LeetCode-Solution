@@ -17,6 +17,7 @@ LeetCode DSA solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0048-rotate-image) |
@@ -72,6 +73,7 @@ LeetCode DSA solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
@@ -269,6 +271,7 @@ LeetCode DSA solutions
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
@@ -331,6 +334,7 @@ LeetCode DSA solutions
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0078-subsets) |
@@ -338,5 +342,10 @@ LeetCode DSA solutions
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
