@@ -56,6 +56,7 @@ LeetCode DSA solutions
 | [1470-shuffle-the-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -255,6 +256,7 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
