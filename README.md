@@ -52,6 +52,7 @@ LeetCode DSA solutions
 | [0867-transpose-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1095-find-in-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
 | [1470-shuffle-the-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -138,6 +139,7 @@ LeetCode DSA solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
@@ -146,6 +148,7 @@ LeetCode DSA solutions
 | [0053-maximum-subarray](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -355,4 +358,24 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
