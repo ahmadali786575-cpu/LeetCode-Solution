@@ -1,44 +1,37 @@
 class Solution {
 public:
+    int partition(vector<int>& arr, int st, int end) {
+        int randomIdx = st + rand() % (end - st + 1);
+        swap(arr[randomIdx], arr[end]);
 
-    void merge(vector<int>&arr, int st,int mid, int end){
-        vector<int> temp;
-        int i =st, j = mid+1;
-        while(i<=mid && j<=end){
-            if(arr[i]<=arr[j]){
-                temp.push_back(arr[i]);
-                i++;
+        int pivot = arr[end];
+        int i = st, j = st, k = end;
+
+        while (j <= k) {
+            if (arr[j] < pivot) {
+                swap(arr[i++], arr[j++]);
             }
-            else{
-                temp.push_back(arr[j]);
+            else if (arr[j] > pivot) {
+                swap(arr[j], arr[k--]);
+            }
+            else {
                 j++;
             }
         }
-        while(i<=mid){
-            temp.push_back(arr[i]);
-            i++;
-        }
-        while(j<=end){
-            temp.push_back(arr[j]);
-            j++;
-        }
-        for(int idx=0; idx<temp.size(); idx++){
-            arr[idx+st] = temp[idx];
-        }
+
+        return i + (k - i + 1) / 2;
     }
-    void mergeSort(vector<int>&arr, int st, int end){
-        if(st<end){
-            int mid = st+(end-st)/2;
 
-            mergeSort(arr, st, mid);   //left half
-            mergeSort(arr, mid+1, end);   //right half
+    void quickSort(vector<int>& arr, int st, int end) {
+        if (st < end) {
+            int pivIdx = partition(arr, st, end);
 
-            merge(arr, st, mid, end);
+            quickSort(arr, st, pivIdx - 1);
+            quickSort(arr, pivIdx + 1, end);
         }
     }
     vector<int> sortArray(vector<int>& arr) {
-        int n = arr.size();
-        mergeSort(arr, 0,n-1);
+        quickSort(arr, 0, (int)arr.size() - 1);
         return arr;
     }
 };
