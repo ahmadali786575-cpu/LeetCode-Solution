@@ -57,6 +57,7 @@ LeetCode DSA solutions
 | [1470-shuffle-the-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
+| [2596-check-knight-tour-configuration](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -250,6 +251,7 @@ LeetCode DSA solutions
 | [0832-flipping-an-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
 |  |
 | ------- |
@@ -286,6 +288,7 @@ LeetCode DSA solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0867-transpose-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Newton's Method
 |  |
@@ -378,4 +381,12 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0912-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
