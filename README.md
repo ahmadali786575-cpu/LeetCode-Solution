@@ -60,6 +60,7 @@ LeetCode DSA solutions
 | [2596-check-knight-tour-configuration](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3452-sum-of-good-numbers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/3452-sum-of-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
