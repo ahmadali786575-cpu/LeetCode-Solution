@@ -104,6 +104,7 @@ LeetCode DSA solutions
 | [0371-sum-of-two-integers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -123,6 +124,7 @@ LeetCode DSA solutions
 | [0367-valid-perfect-square](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -191,6 +193,7 @@ LeetCode DSA solutions
 | [0443-string-compression](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 ## Greedy
