@@ -106,6 +106,7 @@ LeetCode DSA solutions
 | [0415-add-strings](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
