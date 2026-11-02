@@ -157,6 +157,7 @@ LeetCode DSA solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0118-pascals-triangle) |
@@ -225,6 +226,7 @@ LeetCode DSA solutions
 | [0012-integer-to-roman](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0125-valid-palindrome) |
@@ -350,6 +352,7 @@ LeetCode DSA solutions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0046-permutations) |
@@ -394,4 +397,8 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
