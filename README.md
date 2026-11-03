@@ -42,6 +42,7 @@ LeetCode DSA solutions
 | [0238-product-of-array-except-self](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0494-target-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -163,6 +164,7 @@ LeetCode DSA solutions
 | [0118-pascals-triangle](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
@@ -360,6 +362,7 @@ LeetCode DSA solutions
 | [0078-subsets](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0494-target-sum) |
 ## Algorithm X
 |  |
 | ------- |
@@ -401,4 +404,12 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
