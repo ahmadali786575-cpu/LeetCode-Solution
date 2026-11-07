@@ -102,6 +102,7 @@ LeetCode DSA solutions
 | [0050-powx-n](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0371-sum-of-two-integers) |
@@ -258,6 +259,7 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0867-transpose-matrix) |
@@ -277,6 +279,7 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
