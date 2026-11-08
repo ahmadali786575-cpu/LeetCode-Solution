@@ -104,6 +104,7 @@ LeetCode DSA solutions
 | [0204-count-primes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0415-add-strings) |
@@ -418,4 +419,24 @@ LeetCode DSA solutions
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0494-target-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
