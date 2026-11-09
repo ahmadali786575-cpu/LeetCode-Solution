@@ -1,10 +1,21 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        int min1 = INT32_MAX;
-        for(int val : nums){
-            min1 = min(val, min1);
+        int st = 0, end = nums.size()-1, ans = nums[0];
+
+        while(st<=end){
+            int mid = st+(end-st)/2;
+
+            //left side sorted array
+            if(nums[mid]>=nums[0]){
+                st = mid+1;
+            }
+            //right side sorted array
+            else{
+                ans = nums[mid];
+                end = mid-1;
+            }
         }
-        return min1;
+        return ans;
     }
 };
