@@ -112,6 +112,7 @@ LeetCode DSA solutions
 | [0633-sum-of-square-numbers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3492-maximum-containers-on-a-ship](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/3492-maximum-containers-on-a-ship) |
 ## Binary Search
 |  |
 | ------- |
