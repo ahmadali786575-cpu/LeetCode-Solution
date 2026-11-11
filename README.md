@@ -43,6 +43,7 @@ LeetCode DSA solutions
 | [0238-product-of-array-except-self](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -204,6 +205,7 @@ LeetCode DSA solutions
 | [0125-valid-palindrome](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
