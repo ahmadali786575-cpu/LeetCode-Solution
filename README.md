@@ -60,6 +60,7 @@ LeetCode DSA solutions
 | [1470-shuffle-the-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2596-check-knight-tour-configuration](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
