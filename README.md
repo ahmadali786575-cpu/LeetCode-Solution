@@ -77,6 +77,7 @@ LeetCode DSA solutions
 | [0371-sum-of-two-integers](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/0832-flipping-an-image) |
+| [1009-complement-of-base-10-integer](https://github.com/ahmadali786575-cpu/LeetCode-Solution/tree/master/1009-complement-of-base-10-integer) |
 ## Hash Table
 |  |
 | ------- |
